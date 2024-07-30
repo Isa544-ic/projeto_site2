@@ -1,0 +1,27 @@
+/* Todas as importes tem que ser colocadas no inicio */
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Noto+Sans+JP:wght@100..900&family=Oswald:wght@200..700&display=swap');
+
+
+body{
+    background-color: rgb(94, 92, 92);
+}
+
+.figura{
+    width: 500px;
+}
+.timão{
+    width: 1900px;
+    height: 500px;
+}
+/* classe para configuração */
+.fonte{
+    color:azure;
+    font-size: 30px;
+    font-family: "Oswald", sans-serif;
+}
+.escrita{
+    font-family: "Bebas Neue", sans-serif;
+    font-size: 135px;
+    color: rgb(154, 5, 5);
+}
